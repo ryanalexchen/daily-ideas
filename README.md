@@ -1,7 +1,9 @@
-# daily-ideas
+# One Idea a Day
 
-Idea list for the One Idea a Day widget.
+One university-level idea a day — cognitive science, data science, product management, plus philosophy, history and economics — each with an evidence status and the strongest competing positions.
 
-`ideas.json` holds ideas from number 51 onward (1–50 are built into the widget). A weekly task adds new ones here; the iPhone widget downloads this file and caches it.
+**App:** https://ryanalexchen.github.io/daily-ideas/ — open in Safari on iPhone, tap Share → Add to Home Screen.
 
-`one-idea-a-day.js` is the Scriptable widget script, kept here so it can be installed on an iPhone without copying files.
+- `index.html`, `manifest.webmanifest`, `sw.js`, icons: the installable web app (works offline).
+- `ideas.json`: ideas from number 51 onward (1–50 are built in). A weekly task adds new ones.
+- `one-idea-a-day.js`: the Scriptable home-screen widget for iPhone.

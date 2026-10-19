@@ -1,0 +1,28 @@
+{
+  "name": "One Idea a Day",
+  "short_name": "One Idea",
+  "description": "One university-level idea a day, with the evidence status and the strongest competing positions.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EBEFF2",
+  "theme_color": "#1E5A86",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
